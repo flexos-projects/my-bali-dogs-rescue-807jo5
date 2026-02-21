@@ -1,15 +1,25 @@
 ---
 id: guides-readme
-title: "Guides"
-description: "Cross-cutting guides and custom documentation that don't fit in core docs"
+title: Guides
+description: Cross-cutting guides and custom documentation that don't fit in core docs
 type: meta
 subtype: readme
 status: active
-tags: [docs, guides, custom]
-relatesTo: [docs/core/]
-createdAt: ""
-updatedAt: ""
+tags:
+  - docs
+  - guides
+  - custom
+createdAt: ''
+updatedAt: '2026-02-21T23:12:55.948Z'
+relatesTo:
+  - "docs/core/"
+  - "/.flexos/specs/007-flow_personalize.md"
+  - "/.flexos/specs/003-pages_example.md"
 ---
+
+<flex_block type="config">
+{}
+</flex_block>
 
 # Guides
 
