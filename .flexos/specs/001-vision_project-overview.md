@@ -1,15 +1,31 @@
 ---
-id: "001-vision_project-overview"
-title: "Project Overview"
+id: 001-vision_project-overview
+title: Project Overview
 type: spec
 subtype: vision
 status: draft
 sequence: 1
-tags: [vision, overview]
-relatesTo: [docs/core/001-vision.md]
-createdAt: ""
-updatedAt: ""
+tags:
+  - vision
+  - overview
+createdAt: ''
+updatedAt: '2026-02-22T01:43:40.449Z'
+relatesTo:
+  - docs/core/001-vision.md
+  - /.flexos/specs/004-flows_example.md
+  - /.flexos/specs/007-flow_personalize.md
 ---
+
+<flex_block type="schema">
+{
+  "collection": "new_collection",
+  "fields": []
+}
+</flex_block>
+
+<flex_block type="instructions">
+{}
+</flex_block>
 
 # Project Overview
 
