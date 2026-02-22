@@ -1,12 +1,34 @@
 ---
-id: "005-flows"
-title: "Flows & Business Logic"
+id: 005-flows
+title: Flows & Business Logic
 type: doc
 subtype: core
 status: draft
 sequence: 5
-tags: [flows, logic, processes, states]
+tags:
+  - flows
+  - logic
+  - processes
+  - states
+updatedAt: '2026-02-22T01:45:28.163Z'
 ---
+
+<flex_block type="flow">
+{
+  "steps": [
+    {
+      "type": "action",
+      "name": "User starts",
+      "actor": "user"
+    },
+    {
+      "type": "action",
+      "name": "System responds",
+      "actor": "system"
+    }
+  ]
+}
+</flex_block>
 
 # Flows & Business Logic
 

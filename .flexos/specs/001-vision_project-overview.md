@@ -9,7 +9,7 @@ tags:
   - vision
   - overview
 createdAt: ''
-updatedAt: '2026-02-22T01:43:40.449Z'
+updatedAt: '2026-02-22T01:45:17.965Z'
 relatesTo:
   - docs/core/001-vision.md
   - /.flexos/specs/004-flows_example.md
@@ -24,6 +24,10 @@ relatesTo:
 </flex_block>
 
 <flex_block type="instructions">
+{}
+</flex_block>
+
+<flex_block type="tokens">
 {}
 </flex_block>
 
